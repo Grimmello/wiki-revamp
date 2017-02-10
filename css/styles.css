@@ -1,0 +1,52 @@
+.sidebar {
+  float:right;
+  width: 200px;
+  background-color: white;
+  height: 100%;
+}
+
+.sidebar_content {
+  text-align: center;
+  margin-right: 25%;
+}
+.sidebar_content ul {
+  list-style: none;
+}
+
+html, body {
+
+  margin: 0px;
+  padding: 0px;
+  height: 100%;
+  min-height: 100%;
+}
+.container {
+  margin-top: 5%;
+  float:left;
+}
+.nav {
+  float: left;
+  margin-top: 2%;
+}
+/* Green theme #CEF2E0 F5FFFA
+Purple theme DDCEF2 FAF5FF
+Blue theme CEDFF2 F5FAFF
+*/
+.panel-green{
+  background-color: #F5FFFA;
+  border: 1px #CEF2E0;
+  border-style: solid;
+  padding-left: 5px;
+  min-height: 200px;
+  font-size: 16px;
+}
+.title1 {
+  background-color: #CEF2E0;
+  margin-right: 5px;
+  color: black;
+}
+img {
+  display: block;
+  float: left;
+  margin-right: 5px;
+}
